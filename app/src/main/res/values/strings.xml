@@ -5,4 +5,9 @@
     <string name="notifications">Напоминания</string>
     <string name="navigation_open">Open</string>
     <string name="navigation_close">Close</string>
+
+    <string name="tab_history">History</string>
+    <string name="tab_ideas">Ideas</string>
+    <string name="tab_todo">Todo</string>
+    <string name="tab_birthdays">Birthdays</string>
 </resources>
